@@ -6,6 +6,6 @@ A solution to [Foundations Project: Landing Page on the Odin Project](https://ww
 Below are screenshots of the target layout and final Layouts
 
 ### Target:
-! [project-logo] (01.png)
+! [project-logo] (https://github.com/prognoob31/Project-Odin-Landing-Page/blob/main/01.png?raw=true)
 ### Result : 
 
